@@ -1,29 +1,27 @@
 # yi-qrcodes
 
-## Project setup
+This project lets you quickly generate QR codes for live streaming from Yi action cameras as I find the official Android app rather clunky.
+
+You can [use it here](https://marines.github.io/yi-qrcodes).
+
+Feel free to suggest any improvements you'd like to see there.
+
+## Development 
+
+### Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+#### Compiles and hot-reloads for development
 ```
 yarn run serve
 ```
 
-### Compiles and minifies for production
+#### Compiles and minifies for production
 ```
 yarn run build
 ```
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
+#### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
